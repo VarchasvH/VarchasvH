@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/varchasvh" target="blank"><img src="https://img.shields.io/twitter/follow/varchasvh?logo=twitter&style=for-the-badge" alt="varchasvh" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working on **Open Source**
 
-- 🌱 I’m currently learning **Docker, Kubernetes and JavaScript**
+- 🌱 I’m currently learning **DevOps Technologies and Tools**
 
 - 👯 I’m looking to collaborate on **DevOps related Projects**
 
 - 🤝 I’m looking for help with **Projects**
+
+- 📝 My Portfolio [varchasvh.carrd.co](https://varchasv.carrd.co/)
 
 - 📝 I regularly write articles on [https://varchasvh.hashnode.dev/](https://varchasvh.hashnode.dev/)
 
