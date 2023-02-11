@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **DevOps related Projects**
 
-- 🤝 I’m looking for help with **Docker Projects**
+- 🤝 I’m looking for help with **Projects**
 
 - 📝 I regularly write articles on [https://varchasvh.hashnode.dev/](https://varchasvh.hashnode.dev/)
 
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact **I really like Music and Sports**
+- ⚡ Fun fact **I really like Gaming and Dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
