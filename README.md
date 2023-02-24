@@ -76,7 +76,7 @@
 <br>
 <br>
 
-<p align="center"><img src="ppic.jpg"> &nbsp;&nbsp;&nbsp;
+<p align="center"><img src="https://user-images.githubusercontent.com/100064742/221143996-581af85e-12a3-46c9-88a0-c5255409f28d.png">
 
 <br>
 <hr>
