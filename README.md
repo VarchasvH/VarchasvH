@@ -18,8 +18,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/VarchasvH/VarchasvH/output/snake.svg" alt="Snake animation" />
 
 ---
 
