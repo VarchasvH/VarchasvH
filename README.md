@@ -26,9 +26,6 @@ Feel free to explore my work, connect on [LinkedIn](https://linkedin.com/in/varc
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varchasvh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varchasvh)
 
-## 📘 Resume
-📄 [View My Resume](https://github.com/varchasvh/your-resume.pdf) *(add your actual PDF link here)*
-
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
