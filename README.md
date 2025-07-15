@@ -25,7 +25,7 @@ Feel free to explore my work, connect on [LinkedIn](https://linkedin.com/in/varc
 ### 📄 Resume
 
 You can download my resume here:  
-[**Download Resume (PDF)**](https://github.com/VarchasvH/resume/raw/main/Varchasv_Hoon_Resume_Data_Engineer
+[**Download Resume (PDF)**](https://github.com/VarchasvH/resume/Varchasv_Hoon_Resume_Data_Engineer.pdf)
 
 ---
 
